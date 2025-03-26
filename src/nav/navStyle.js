@@ -1,4 +1,4 @@
-import "./nav.css"
+import "../css/nav.css"
 
 function applyNavStyle() {
     const nav = document.querySelector("nav")

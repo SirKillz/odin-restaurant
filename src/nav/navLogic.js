@@ -1,6 +1,6 @@
-import { displayHome } from "./home"
-import { displayMenu } from "./menu"
-import { displayAbout } from "./about"
+import { displayHome } from "../page/home"
+import { displayMenu } from "../page/menu"
+import { displayAbout } from "../page/about"
 
 function clearSection() {
     const contentDiv = document.querySelector("#content");

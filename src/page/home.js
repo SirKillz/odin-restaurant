@@ -1,5 +1,5 @@
-import pizzaImage from "./pizza.jpg";
-import "./home.css"
+import pizzaImage from "../image/pizza.jpg";
+import "../css/home.css"
 
 function displayHome() {
     const contentDiv = document.querySelector("#content");

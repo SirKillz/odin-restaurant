@@ -1,6 +1,6 @@
-import { displayHome } from "./home";
-import { applyNavStyle } from "./navStyle";
-import { pageSwitch } from "./navLogic";
+import { displayHome } from "./page/home";
+import { applyNavStyle } from "./nav/navStyle";
+import { pageSwitch } from "./nav/navLogic";
 
 
 
